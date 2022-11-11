@@ -16,6 +16,8 @@
 5. Maybe you can add more of your own idea for future development xD?
 
 # jdatepicker has to add into the project library as it is an external library
+![image](https://user-images.githubusercontent.com/83653118/201345659-25a23221-406a-4ffd-9031-8a409de6df75.png)
+
 
 # The output of the data are stored under the out folder
 1. The data will stored in following path:
