@@ -18,5 +18,5 @@
 # jdatepicker has to add into the project library as it is an external library
 
 # The output of the data are stored under the out folder
-1. The data will stored in following path
-hotel-reservation-system\out\production\hotel-reservation-system\database
+1. The data will stored in following path:
+  - \hotel-reservation-system\out\production\hotel-reservation-system\database
