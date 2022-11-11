@@ -8,7 +8,7 @@
 4. Entire system was coded under the 4 major OOP concept of Java.
 5. Run the HotelReservationSystem.java to see the system
 
-#Further Improvement
+# Further Improvement
 1. Create register functions for future users.
 2. Develop a Customer Interface for Booking purposes.
 3. Build a payment gateway/top-up system for the customers.
