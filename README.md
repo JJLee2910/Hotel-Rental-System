@@ -8,4 +8,10 @@
 4. Entire system was coded under the 4 major OOP concept of Java.
 5. Run the HotelReservationSystem.java to see the system
 
+#Further Improvement
+1. Create register functions for future users.
+2. Develop a Customer Interface for Booking purposes.
+3. Build a payment gateway/top-up system for the customers.
+4. Maybe you can add more of your own idea for future development xD?
+
 ### jdatepicker has to add into the project library as it is an external library
