@@ -12,6 +12,11 @@
 1. Create register functions for future users.
 2. Develop a Customer Interface for Booking purposes.
 3. Build a payment gateway/top-up system for the customers.
-4. Maybe you can add more of your own idea for future development xD?
+4. Create a database intergration instead of text file.
+5. Maybe you can add more of your own idea for future development xD?
 
-### jdatepicker has to add into the project library as it is an external library
+# jdatepicker has to add into the project library as it is an external library
+
+# The output of the data are stored under the out folder
+1. The data will stored in following path
+hotel-reservation-system\out\production\hotel-reservation-system\database
